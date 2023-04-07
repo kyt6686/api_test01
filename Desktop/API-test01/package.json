@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.2.0",
+    "sequelize": "^6.30.0"
+  },
+  "name": "api-test01",
+  "version": "1.0.0",
+  "description": "api test",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyt6686/api_test01.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "YONGTAE KWON <kyt6686@naver.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyt6686/api_test01/issues"
+  },
+  "homepage": "https://github.com/kyt6686/api_test01#readme"
+}
